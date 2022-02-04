@@ -14,7 +14,7 @@ bug-reports:    https://github.com/IvanMalison/gtk-strut/issues
 author:         Ivan Malison
 maintainer:     IvanMalison@gmail.com
 copyright:      Ivan Malison
-license:        BSD3
+license:        BSD-3-Clause
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
